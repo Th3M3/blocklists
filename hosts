@@ -1,4 +1,24 @@
 # HOSTS file
 
+# malware domains (found in spam mails)
 
-0.0.0.0 chip.de
+# medics spam mails
+0.0.0.0 ptful.topwebinfon.su
+0.0.0.0 www.gsdg.topwebinfon.su
+0.0.0.0 qvleixehsu.topwebinfon.su
+0.0.0.0 vzoowctoat.topwebinfom.su
+0.0.0.0 nrubudici.topwebinfom.su
+0.0.0.0 doanfpgxaw.topwebinfom.su
+0.0.0.0 eifzegme.topwebinfom.su
+
+0.0.0.0 www.ohne-rezept-zentral.org
+
+
+# facebook notification fakes
+0.0.0.0 www.ergoplast.it
+0.0.0.0 www.wukania.net
+0.0.0.0 hamiltonsailing.com
+
+
+# whatsapp voicemail fake
+0.0.0.0 dorbi.net
