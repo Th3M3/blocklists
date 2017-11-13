@@ -3,7 +3,7 @@
 # malware domains (found in spam mails)
 0.0.0.0 huibaojiazheng.com
 0.0.0.0 www.iroomsin.com
-0.0.0.0 .fastsmartbargain.ru
+0.0.0.0 *.fastsmartbargain.ru
 
 
 # medics spam mails
