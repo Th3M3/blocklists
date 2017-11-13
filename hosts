@@ -1,6 +1,10 @@
 # HOSTS file
 
 # malware domains (found in spam mails)
+0.0.0.0 huibaojiazheng.com
+0.0.0.0 www.iroomsin.com
+0.0.0.0 .fastsmartbargain.ru
+
 
 # medics spam mails
 0.0.0.0 ptful.topwebinfon.su
@@ -10,7 +14,6 @@
 0.0.0.0 nrubudici.topwebinfom.su
 0.0.0.0 doanfpgxaw.topwebinfom.su
 0.0.0.0 eifzegme.topwebinfom.su
-
 0.0.0.0 www.ohne-rezept-zentral.org
 
 
