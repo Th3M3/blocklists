@@ -25,3 +25,18 @@
 
 # whatsapp voicemail fake
 0.0.0.0 dorbi.net
+
+# session replay
+0.0.0.0 clicktale.net
+0.0.0.0 fullstory.com
+0.0.0.0 hotjar.com
+0.0.0.0 userreplay.net
+0.0.0.0 sessioncam.com
+0.0.0.0 smartlook.com
+0.0.0.0 yandex.ru
+0.0.0.0 inspectlet.com
+0.0.0.0 mouseflow.com
+0.0.0.0 decibelinsight.net
+0.0.0.0 quantummetric.com
+0.0.0.0 logrocket.com
+0.0.0.0 salemove.com
