@@ -1,6 +1,5 @@
 # HOSTS file
 
-# malware domains (found in spam mails)
 0.0.0.0 huibaojiazheng.com
 0.0.0.0 www.iroomsin.com
 0.0.0.0 tqgjefem.fastsmartbargain.ru
@@ -12,8 +11,6 @@
 0.0.0.0 vbg.hue.at
 0.0.0.0 www.santexls-ykt.ru
 0.0.0.0 dud-yuri-protect.tk
-
-# medics spam mails
 0.0.0.0 ptful.topwebinfon.su
 0.0.0.0 www.gsdg.topwebinfon.su
 0.0.0.0 qvleixehsu.topwebinfon.su
@@ -36,18 +33,10 @@
 0.0.0.0 iaolo.bestshoppingm.su
 0.0.0.0 detiofy.bestshoppingk.su
 0.0.0.0 iaolo.bestshoppingm.su
-
-
-# facebook notification fakes
 0.0.0.0 www.ergoplast.it
 0.0.0.0 www.wukania.net
 0.0.0.0 hamiltonsailing.com
-
-
-# whatsapp voicemail fake
 0.0.0.0 dorbi.net
-
-# session replay
 0.0.0.0 clicktale.net
 0.0.0.0 fullstory.com
 0.0.0.0 hotjar.com
@@ -61,3 +50,4 @@
 0.0.0.0 quantummetric.com
 0.0.0.0 logrocket.com
 0.0.0.0 salemove.com
+0.0.0.0 a.robotcaptcha2.info
