@@ -1,12 +1,127 @@
 # HOSTS file
+# for pi-Hole
+# Domains lookup by IP: 
+# https://securitytrails.com/list/ip/191.252.117.185
 
 0.0.0.0 huibaojiazheng.com
+
+# IP=107.183.26.16
+0.0.0.0 iroomsin.com
 0.0.0.0 www.iroomsin.com
-0.0.0.0 tqgjefem.fastsmartbargain.ru
-0.0.0.0 vip.nowinvests.top
+
+#IP=103.247.10.51
+0.0.0.0 www.m.kesehatankelamin.com
+0.0.0.0 andrologi.kesehatankelamin.com
+0.0.0.0 mail.kesehatankelamin.com
+0.0.0.0 artikel.kesehatankelamin.com
+0.0.0.0 www.wp.kesehatankelamin.com
+0.0.0.0 www.artikel.kesehatankelamin.com
+0.0.0.0 www.andrologi.kesehatankelamin.com
+0.0.0.0 kesehatankelamin.com
+0.0.0.0 www.kesehatankelamin.com
+0.0.0.0 m.kesehatankelamin.com
+0.0.0.0 www.wap.klinikkelamin.com
+0.0.0.0 webmail.klinikkelamin.com
+0.0.0.0 www.server.klinikkelamin.com
+0.0.0.0 m.klinikkelamin.com
+0.0.0.0 www.klinikkelamin.com
+0.0.0.0 klinikkelamin.com
+0.0.0.0 mail.klinikkelamin.com
+0.0.0.0 wap.klinikkelamin.com
+0.0.0.0 server.klinikkelamin.com
+0.0.0.0 webdisk.klinikkelamin.com
+0.0.0.0 cpanel.klinikkelamin.com
+0.0.0.0 cpanel.klinikkeputihan.com
+0.0.0.0 www.klinikkeputihan.com
+0.0.0.0 mail.klinikkeputihan.com
+0.0.0.0 webmail.klinikkeputihan.com
+0.0.0.0 webdisk.klinikkeputihan.com
+0.0.0.0 klinikkeputihan.com
+0.0.0.0 mail.klinikkesehatan.info
+0.0.0.0 www.klinikkesehatan.info
+0.0.0.0 coba.klinikkesehatan.info
+0.0.0.0 www.m.klinikkesehatan.info
+0.0.0.0 www.coba.klinikkesehatan.info
+0.0.0.0 m.klinikkesehatan.info
+0.0.0.0 klinikkesehatan.info
+0.0.0.0 pengobatanprostat.net
+0.0.0.0 www.baru.penyakitserviks.com
+0.0.0.0 penyakitserviks.com
+0.0.0.0 mail.penyakitserviks.com
+0.0.0.0 cpanel.penyakitserviks.com
+0.0.0.0 webdisk.penyakitserviks.com
+0.0.0.0 www.penyakitserviks.com
+0.0.0.0 webmail.penyakitserviks.com
+0.0.0.0 baru.penyakitserviks.com
+0.0.0.0 cpanel.rajasinga.info
+0.0.0.0 sentosa.rajasinga.info
+0.0.0.0 webmail.rajasinga.info
+0.0.0.0 www.rajasinga.info
+0.0.0.0 www.sentosa.rajasinga.info
+0.0.0.0 mail.rajasinga.info
 0.0.0.0 rajasinga.info
-0.0.0.0 www.liveretail.ru
+0.0.0.0 webdisk.rajasinga.info
+0.0.0.0 www.ganti.sipilis.info
+0.0.0.0 webdisk.sipilis.info
+0.0.0.0 www.sipilis.info
+0.0.0.0 cpanel.sipilis.info
+0.0.0.0 sipilis.info
+0.0.0.0 mail.sipilis.info
+0.0.0.0 webmail.sipilis.info
+
+#IP=191.252.117.185
+0.0.0.0 www.1drinkapp.com.br
+0.0.0.0 1drinkapp.com.br
+0.0.0.0 ns1.1drinkapp.com.br
+0.0.0.0 ns1.altercar.com.br
+0.0.0.0 www.altercar.com.br
+0.0.0.0 altercar.com.br
+0.0.0.0 www.boasmaoscondominios.com.br
+0.0.0.0 www.comalalimentos.com.br
+0.0.0.0 mail.cristinadiniz.com.br
+0.0.0.0 ns1.cristinadiniz.com.br
 0.0.0.0 www.cristinadiniz.com.br
+0.0.0.0 cristinadiniz.com.br
+0.0.0.0 ns1.detexsaudeambiental.com.br
+0.0.0.0 detexsaudeambiental.com.br
+0.0.0.0 www.detexsaudeambiental.com.br
+0.0.0.0 www.duvallefardamentos.com.br
+0.0.0.0 ns1.duvallefardamentos.com.br
+0.0.0.0 duvallefardamentos.com.br
+0.0.0.0 www.holosodontologia.com.br
+0.0.0.0 ns1.holosodontologia.com.br
+0.0.0.0 holosodontologia.com.br
+0.0.0.0 mail.holosodontologia.com.br
+0.0.0.0 otimizei.gagarin0944.hospedagemdesites.ws
+0.0.0.0 www.masterbrasilexpress.com.br
+0.0.0.0 ns1.masterbrasilexpress.com.br
+0.0.0.0 masterbrasilexpress.com.br
+0.0.0.0 mail.masterbrasilexpress.com.br
+0.0.0.0 nardiniimoveis.com.br
+0.0.0.0 www.nardiniimoveis.com.br
+0.0.0.0 www.oxefrutas.com.br
+0.0.0.0 ns1.oxefrutas.com.br
+0.0.0.0 oxefrutas.com.br
+0.0.0.0 www.premolnitos.com.br
+0.0.0.0 qualificanegocios.com.br
+0.0.0.0 www.qualificanegocios.com.br
+0.0.0.0 ns1.qualificanegocios.com.br
+0.0.0.0 webmail.qualificanegocios.com.br
+0.0.0.0 mail.qualificanegocios.com.br
+0.0.0.0 www.queromorarbem.com.br
+0.0.0.0 ns1.sprpetrolina.com.br
+0.0.0.0 www.sprpetrolina.com.br
+0.0.0.0 sprpetrolina.com.br
+0.0.0.0 ns1.turbinadadoconhecimento.com.br
+0.0.0.0 mail.turbinadadoconhecimento.com.br
+0.0.0.0 turbinadadoconhecimento.com.br
+0.0.0.0 www.turbinadadoconhecimento.com.br
+0.0.0.0 www.vinhosbianchetti.com.br
+0.0.0.0 vinhosbianchetti.com.br
+0.0.0.0 ns1.vinhosbianchetti.com.br
+0.0.0.0 mail.vinhosbianchetti.com.br
+
+
 0.0.0.0 nxto.cfdt-fgmm.fr
 0.0.0.0 vbg.hue.at
 0.0.0.0 www.santexls-ykt.ru
@@ -102,6 +217,8 @@
 0.0.0.0 weiterleitung.en-ar.info
 0.0.0.0 golosistini.tv
 0.0.0.0 fabulous-sexxx.space
+
+# IP=85.25.210.155
 0.0.0.0 lovee-is-all-around.space
 0.0.0.0 www.allyouneedislove.space
 0.0.0.0 allyouneedislove.space
@@ -114,7 +231,11 @@
 0.0.0.0 myprofitmethods32.com
 0.0.0.0 winyour-bonus2.com
 0.0.0.0 yourmainstream-zone.life
+
+# IP=185.50.248.93
 0.0.0.0 localdating10.com
+0.0.0.0 www.localdating10.com
+
 0.0.0.0 bitcoincodesoftapps.com
 0.0.0.0 bitcoinrevolutionapps.com
 0.0.0.0 www.pattern-trader.net
