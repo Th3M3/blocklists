@@ -1,21 +1,33 @@
-analytics.ext.go-tellm.com
-
+# A
 banner.advertising.com
 
-c.live.com
+# H
+responder.wt.heise.de
+
+# I
 cdn.c-i.as
-conf.ext.go-tellm.com
-cms.analytics.yahoo.com
-browser.pipe.aria.microsoft.com
-  
 
-
+# J
 externalimg.cdn.jodel.com
 externalvid.cdn.jodel.com
 externalvidthumbnail.cdn.jodel.com
 
-responder.wt.heise.de
+# L
+c.live.com
 
+# M
+browser.pipe.aria.microsoft.com
+ad2.movad.net
+cdn.movad.net
+
+# S
+www.internet.apps.samsung.com
 webapk-cdn.internet.apps.samsung.com
 webpayment-promo.internet.apps.samsung.com
-www.internet.apps.samsung.com
+
+# T
+analytics.ext.go-tellm.com
+conf.ext.go-tellm.com
+
+# Y
+cms.analytics.yahoo.com
