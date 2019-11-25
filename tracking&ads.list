@@ -14,6 +14,8 @@ cdn.movad.net
 cdn.speedcurve.com
 cms.analytics.yahoo.com
 
+# Ads in Jodel App
+s.jodel.com
 externalimg.cdn.jodel.com
 externalvid.cdn.jodel.com
 externalvidthumbnail.cdn.jodel.com
@@ -21,7 +23,19 @@ externalvidthumbnail.cdn.jodel.com
 iam-agof-m.irquest.com
 
 mafo.adalliance.io
+
+# Google Talk
 mtalk.google.com
+mtalk4.google.com
+alt1-mtalk.google.com
+alt2-mtalk.google.com
+alt3-mtalk.google.com
+alt4-mtalk.google.com
+alt5-mtalk.google.com
+alt6-mtalk.google.com
+alt7-mtalk.google.com
+alt8-mtalk.google.com
+
 
 olmprodpowerlift-cdn.azureedge.net
 
@@ -29,14 +43,19 @@ powerlift-frontdesk.acompli.net
 
 responder.wt.heise.de
 
-s.jodel.com
-
 tlp-01.kameleoon.com
 tlp-02.kameleoon.com
 tlp-03.kameleoon.com
 tlp-04.kameleoon.com
 
+www.summerhamster.com
+
+# Samsung Mobile Browser
 webapk-cdn.internet.apps.samsung.com
 webpayment-promo.internet.apps.samsung.com
 www.internet.apps.samsung.com
-www.summerhamster.com
+
+# Opera Browser Startpage Ads, Daily News, ...
+merchandise.opera-api.com
+recover.operacdn.com
+speeddials.opera.com
