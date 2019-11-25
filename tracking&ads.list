@@ -1,18 +1,55 @@
+92ab.playfabapi.com
 a.bf-ad.net
 a.bf-tools.net
 ad2.movad.net
+adtm.chip.de
+an.facebook.com
 analytics.ext.go-tellm.com
+api.opinary.com
 
 banner.advertising.com
+beacons.gcp.gvt2.com
 behave.chip.de
-browser.pipe.aria.microsoft.com
 
 c.live.com
 conf.ext.go-tellm.com
 cdn.c-i.as
 cdn.movad.net
 cdn.speedcurve.com
+cdn-a.yieldlove.com
+cdn-b.yieldlove.com
+cdn-c.yieldlove.com
+cdn.emetriq.de
+cdn.recognified.net
 cms.analytics.yahoo.com
+
+gate.hockeyapp.net
+
+iam-agof-m.irquest.com
+
+mafo.adalliance.io
+
+nlt.recognified.com
+
+olmprodpowerlift-cdn.azureedge.net
+
+powerlift-frontdesk.acompli.net
+
+rads.recognified.net
+responder.wt.heise.de
+
+scr.wfcdn.de
+static.h-bid.com
+
+tlp-01.kameleoon.com
+tlp-02.kameleoon.com
+tlp-03.kameleoon.com
+tlp-04.kameleoon.com
+
+ups.xplosion.de
+
+www.summerhamster.com
+
 
 # Ads in Jodel App
 s.jodel.com
@@ -20,9 +57,8 @@ externalimg.cdn.jodel.com
 externalvid.cdn.jodel.com
 externalvidthumbnail.cdn.jodel.com
 
-iam-agof-m.irquest.com
-
-mafo.adalliance.io
+# Mobile Game Analytics
+analytics.hardlightgames.com
 
 # Google Talk
 mtalk.google.com
@@ -36,19 +72,9 @@ alt6-mtalk.google.com
 alt7-mtalk.google.com
 alt8-mtalk.google.com
 
-
-olmprodpowerlift-cdn.azureedge.net
-
-powerlift-frontdesk.acompli.net
-
-responder.wt.heise.de
-
-tlp-01.kameleoon.com
-tlp-02.kameleoon.com
-tlp-03.kameleoon.com
-tlp-04.kameleoon.com
-
-www.summerhamster.com
+# Microsoft (Win10 & Apps on Mobile)
+adbroker.mp.dse.microsoft.com
+browser.pipe.aria.microsoft.com
 
 # Samsung Mobile Browser
 webapk-cdn.internet.apps.samsung.com
