@@ -11,3 +11,4 @@ outlook.live.com#$# div>div>div>div>div>div:contains("Sie scheinen einen Anzeige
 outlook.live.com#$# div>div>div>div>div>div:contains("It looks like you're using an ad blocker") {display:none}
 outlook.live.com#$# div>div>div>div:last-child>div:last-child>div:contains("Upgrade auf Office 365 mit Outlook-Premiumfunktionen") {display:none}
 outlook.live.com#$# div>div>div>div:last-child>div:last-child>div:contains("Upgrade to Office 365 with premium Outlook features") {display:none}
+outlook.live.com#$#meInitialsButton {background-color: rgba(255,255,255,.2);}
