@@ -17,7 +17,4 @@ www.ebay-kleinanzeigen.de#$# li.ad-listitem > *:not(article) {display: none !imp
 www.ebay-kleinanzeigen.de#$# li.ad-listitem:not([class*="lazyload-item"]) {border: none !important}
 www.ebay-kleinanzeigen.de#$# div[id*="adsense-bottom"][style*="height"] {display: none !important}
 
-www.heise.de##li:has(span:contains("Anzeige"))
-www.heise.de##a-ad:has(span:contains("Anzeige"))
-www.heise.de##article:has(span:contains("Anzeige"))
-www.heise.de##a-paternoster:has(span:contains("Anzeige"))
+www.heise.de##*[style*="height"]:has(span:contains("Anzeige"))
