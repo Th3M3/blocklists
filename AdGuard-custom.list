@@ -16,5 +16,3 @@ outlook.live.com#$# #meInitialsButton {background-color: rgba(255,255,255,.2) !i
 www.ebay-kleinanzeigen.de#$# li.ad-listitem > *:not(article) {display: none !important}
 www.ebay-kleinanzeigen.de#$# li.ad-listitem:not([class*="lazyload-item"]) {border: none !important}
 www.ebay-kleinanzeigen.de#$# div[id*="adsense-bottom"][style*="height"] {display: none !important}
-
-www.heise.de##*[style*="height"]:has(span:contains("Anzeige"))
