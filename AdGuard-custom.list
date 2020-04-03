@@ -4,8 +4,6 @@
 www.chip.de#$#body > script ~ div[class^="sp_"][style*="display: block"] {display: none !important;}
 www.chip.de#$#html,body {overflow-y: unset !important;}
 
-finya.de#$#div#mainPanel > div:not([id]) > div[id] > img {display: none}
-
 # remove right AdBlocker pane and upgrade advice under folder pane on outlook email site
 outlook.live.com#$# div>div>div>div>div>div:contains("Sie scheinen einen Anzeigenblocker zu verwenden") {display:none}
 outlook.live.com#$# div>div>div>div>div>div:contains("It looks like you're using an ad blocker") {display:none}
