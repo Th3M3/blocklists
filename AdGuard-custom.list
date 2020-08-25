@@ -7,7 +7,7 @@ www.chip.de#$#html,body {overflow-y: unset !important;}
 # remove right AdBlocker pane and upgrade advice under folder pane on outlook email site
 outlook.live.com#$# div>div>div>div>div>div:contains("Sie scheinen einen Anzeigenblocker zu verwenden") {display:none}
 outlook.live.com#$# div>div>div>div>div>div:contains("It looks like you're using an ad blocker") {display:none}
-outlook.live.com#$# div>button>div>span:contains("Outlook-Premiumfunktionen") {display:none}
+outlook.live.com#$# div>button>div>span:contains("Premium-Outlook-Funktionen") {display:none}
 outlook.live.com#$# div>button>div>span:contains("premium Outlook features") {display:none}
 outlook.live.com#$# #meInitialsButton {background-color: rgba(255,255,255,.2) !important;}
 
