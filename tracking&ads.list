@@ -53,8 +53,11 @@ www.summerhamster.com
 
 # Ads in Jodel App
 externalimg.cdn.jodel.com
+externalimg.cdn.jodel-app.com
 externalvid.cdn.jodel.com
+externalvid.cdn.jodel-app.com
 externalvidthumbnail.cdn.jodel.com
+externalvidthumbnail.cdn.jodel-app.com
 
 # Mobile Game Analytics
 analytics.hardlightgames.com
