@@ -25,8 +25,6 @@ cms.analytics.yahoo.com
 
 gate.hockeyapp.net
 
-iam-agof-m.irquest.com
-
 mafo.adalliance.io
 
 nlt.recognified.com
@@ -41,23 +39,65 @@ responder.wt.heise.de
 scr.wfcdn.de
 static.h-bid.com
 
-tlp-01.kameleoon.com
-tlp-02.kameleoon.com
-tlp-03.kameleoon.com
-tlp-04.kameleoon.com
-
 ups.xplosion.de
 
 www.summerhamster.com
 
 
-# Ads in Jodel App
+# Ads/Analytics in Jodel App
+s.jodel.com
+analytics.jodelapis.com
+shareimg.cdn.jodel.com	
 externalimg.cdn.jodel.com
 externalimg.cdn.jodel-app.com
 externalvid.cdn.jodel.com
 externalvid.cdn.jodel-app.com
 externalvidthumbnail.cdn.jodel.com
 externalvidthumbnail.cdn.jodel-app.com
+di-2wp08asz.leasewebultracdn.com
+di-zpttqm9o.leasewebultracdn.com
+di-mpnlivxv.leasewebultracdn.com
+di-r3238ldw.leasewebultracdn.com
+di-93udy401.leasewebultracdn.com
+di-fm0cbwee.leasewebultracdn.com
+di-a8k1illq.leasewebultracdn.com
+di-gj5iuy7t.leasewebultracdn.com
+di-sm27gwtl.leasewebultracdn.com
+di-6y77rq17.leasewebultracdn.com
+di-hm2beird.leasewebultracdn.com
+di-uldvnmm2.leasewebultracdn.com
+di-u1t0o71k.leasewebultracdn.com
+di-xs6h2xr8.leasewebultracdn.com
+di-hjdts4dl.leasewebultracdn.com
+di-087h0qub.leasewebultracdn.com
+di-g9fdr4iw.leasewebultracdn.com
+di-9pzqxsdb.leasewebultracdn.com
+di-x7tlxe2b.leasewebultracdn.com
+di-m3v9ilr0.leasewebultracdn.com
+di-t7koq3jh.leasewebultracdn.com
+di-nhws3gt3.leasewebultracdn.com
+di-d8gso2pg.leasewebultracdn.com
+di-y5r5pz4b.leasewebultracdn.com
+di-3firrkeg.leasewebultracdn.com
+di-tv4hohas.leasewebultracdn.com
+di-jt2t2t1n.leasewebultracdn.com
+di-j6a123de.leasewebultracdn.com
+di-hh0fghj6.leasewebultracdn.com
+di-wuhqj6gc.leasewebultracdn.com
+di-j5fa6z3a.leasewebultracdn.com
+di-yy34320c.leasewebultracdn.com
+di-jxxkq94g.leasewebultracdn.com
+di-8nxpb9q8.leasewebultracdn.com
+di-ay666q3u.leasewebultracdn.com
+di-rdbd78g2.leasewebultracdn.com
+di-7k5ti44m.leasewebultracdn.com
+di-qnk8nrp8.leasewebultracdn.com
+di-mjar5gjw.leasewebultracdn.com
+di-auivs4db.leasewebultracdn.com
+di-r9xikzn8.leasewebultracdn.com
+di-xlmjvgvf.leasewebultracdn.com
+di-mi68vc46.leasewebultracdn.com
+di-szm339fj.leasewebultracdn.com
 
 # Mobile Game Analytics
 analytics.hardlightgames.com
