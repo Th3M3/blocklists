@@ -4,12 +4,10 @@
 www.chip.de#$#body > script ~ div[class^="sp_"][style*="display: block"] {display: none !important;}
 www.chip.de#$#html,body {overflow-y: unset !important;}
 
-# remove right AdBlocker pane and upgrade advice under folder pane on outlook email site
-outlook.live.com#$# div>div>div>div>div>div:contains("Sie scheinen einen Anzeigenblocker zu verwenden") {display:none}
-outlook.live.com#$# div>div>div>div>div>div:contains("It looks like you're using an ad blocker") {display:none}
+# remove Outlook Web App ads
+outlook.live.com#?##app div[class] > div[role="region"] ~ div[class]:not([data-max-width]):has(> div[class] > div[class] > span[class] > a[href*="ad-free-outlook"])
 outlook.live.com#$# div>button>div>span:contains("Premium-Outlook-Funktionen") {display:none}
 outlook.live.com#$# div>button>div>span:contains("premium Outlook features") {display:none}
-outlook.live.com#$# #meInitialsButton {background-color: rgba(255,255,255,.2) !important;}
 
 www.ebay-kleinanzeigen.de#$# li.ad-listitem > *:not(article) {display: none !important}
 www.ebay-kleinanzeigen.de#$# li.ad-listitem:not([class*="lazyload-item"]) {border: none !important}
