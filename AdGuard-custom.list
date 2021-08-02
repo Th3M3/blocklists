@@ -19,6 +19,6 @@ www.mikrocontroller.net#$# #sidebar-right {display: none !important;}
 marketscreener.com#$# #dPubBg,#dPubInter{display:none !important}
 
 www.insiderscreener.com#$# small:contains('Abo erforderlich'){display:none}
-www.insiderscreener.com#%#function noAbo(){var selectors='#search_box input[disabled],#search_box select[disabled],#search_box button.disabled',El=document.querySelectorAll(selectors);for (i = 0; i < El.length; i++) {El[i].removeAttribute("disabled");El[i].classList.remove("disabled")}};document.addEventListener('DOMContentLoaded', noAbo);
+www.insiderscreener.com#%#function noAbo(){var selectors='#search_form input[disabled],#search_box select[disabled],#search_box button.disabled',El=document.querySelectorAll(selectors);for (i = 0; i < El.length; i++) {El[i].removeAttribute("disabled");El[i].classList.remove("disabled")}};document.addEventListener('DOMContentLoaded', noAbo);
 
 www.insidertracking.com^$csp=script-src
