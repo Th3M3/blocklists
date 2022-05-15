@@ -9,6 +9,7 @@ outlook.live.com#?##app div[class] > div[role="region"] ~ div[class]:not([data-m
 outlook.live.com#?##app div[class] > div[class] ~ div[class]:not([data-max-width]):has(> div[class] > div[class] > span[class] > a[href*="ad-free-outlook"])
 outlook.live.com#$# div>button>div>span:contains("Premium-Outlook-Funktionen") {display:none}
 outlook.live.com#$# div>button>div>span:contains("premium Outlook features") {display:none}
+outlook.live.com#$# div.full:has(div.fbAdLink) {display:none}
 
 www.ebay-kleinanzeigen.de#$# li.ad-listitem > *:not(article) {display: none !important}
 www.ebay-kleinanzeigen.de#$# li.ad-listitem:not([class*="lazyload-item"]) {border: none !important}
@@ -20,5 +21,6 @@ marketscreener.com#$# #dPubBg,#dPubInter{display:none !important}
 
 www.insiderscreener.com#$# small:contains('Abo erforderlich'){display:none}
 www.insiderscreener.com#%#function noAbo(){var selectors='#search_form input[disabled],#search_box select[disabled],#search_box button.disabled',El=document.querySelectorAll(selectors);for (i = 0; i < El.length; i++) {El[i].removeAttribute("disabled");El[i].classList.remove("disabled")}};document.addEventListener('DOMContentLoaded', noAbo);
+www.insiderscreener.com#$# #net_sum_chart_div, .google-visualization-tooltip b, .google-visualization-tooltip span, .google-visualization-tooltip p {filter: unset !important}
 
 www.insidertracking.com^$csp=script-src
