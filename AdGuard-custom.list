@@ -5,12 +5,7 @@ www.chip.de#$#body > script ~ div[class^="sp_"][style*="display: block"] {displa
 www.chip.de#$#html,body {overflow-y: unset !important;}
 
 # remove Outlook Web App ads
-outlook.live.com#?##app div[class] > div[role="region"] ~ div[class]:not([data-max-width]):has(> div[class] > div[class] > span[class] > a[href*="ad-free-outlook"])
-outlook.live.com#?##app div[class] > div[class] ~ div[class]:not([data-max-width]):has(> div[class] > div[class] > span[class] > a[href*="ad-free-outlook"])
-outlook.live.com#$# div>button>div>span:contains("Premium-Outlook-Funktionen") {display:none}
-outlook.live.com#$# div>button>div>span:contains("Holen Sie sich") {display:none}
-outlook.live.com#$# div>button>div>span:contains("premium Outlook features") {display:none}
-outlook.live.com#$# div.full:has(div.fbAdLink) {display:none}
+outlook.live.com#$# div>button>div>span:contains(OneDrive-Cloudspeicher) {display:none}
 
 www.ebay-kleinanzeigen.de#$# li.ad-listitem > *:not(article) {display: none !important}
 www.ebay-kleinanzeigen.de#$# li.ad-listitem:not([class*="lazyload-item"]) {border: none !important}
