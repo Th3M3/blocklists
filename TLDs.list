@@ -1,7 +1,5 @@
-# Domain wildcard blocklist
+# Domain wildcard blocklist for TLDs
 # in Adblock Plus (ABP) format for Pi-hole
-
-# Top Level Domains
 
 ||top^
 ||biz^
