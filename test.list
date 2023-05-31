@@ -1,5 +1,44 @@
 # Domain wildcard blocklist
 # in Adblock Plus (ABP) format for Pi-hole
 
-||ads.example.com^
+# Top Level Domains
+
 ||top^
+||biz^
+||life^
+||live^
+||men^
+||loan^
+||gq^
+||cf^
+||ga^
+||ml^
+||tk^
+||science^
+||stream^
+||download^
+||accountant^
+||link^
+||win^
+||gdn^ 
+||work^
+||click^
+||fit^
+||buzz^
+||us^
+||bid^
+||abc^
+||casa^
+||pw^
+||pro^
+||cloud^
+||in^
+||pk^
+||site^
+||cfd^
+||live^
+||kids^
+||zip^
+||online^
+||rar^
+||7z^
