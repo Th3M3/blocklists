@@ -1,5 +1,5 @@
-# Domain wildcard blocklist for TLDs
-# in Adblock Plus (ABP) format for Pi-hole
+# TLDs usually used for Phishing, Malware & Spam
+# in Adblock Plus (ABP) format, compatible with Pi-hole
 
 ||top^
 ||biz^
@@ -52,3 +52,7 @@
 ||vip^
 ||ph^
 ||cl^
+||cyou^
+||cam^
+||bar^
+||surf^
