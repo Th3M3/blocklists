@@ -2,3 +2,4 @@
 # in Adblock Plus (ABP) format for Pi-hole
 
 ||ads.example.com^
+||.top^
