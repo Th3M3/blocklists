@@ -7,6 +7,8 @@ www.chip.de#$#html,body {overflow-y: unset !important;}
 # remove Outlook Web App ads
 outlook.live.com#$# div>button>div>span:contains(OneDrive-Cloudspeicher) {display:none}
 outlook.live.com#$# div>button>div>span:contains(Premium-Outlook-Funktionen) {display:none}
+outlook.live.com#$# div>button>div>span:contains(Outlook für Mobilgeräte herunterladen) {display:none}
+outlook.live.com#$# div>button>div>span:contains(Get Outlook mobile. Stay connected on the go!) {display:none}
 
 www.ebay-kleinanzeigen.de#$# li.ad-listitem > *:not(article) {display: none !important}
 www.ebay-kleinanzeigen.de#$# li.ad-listitem:not([class*="lazyload-item"]) {border: none !important}
